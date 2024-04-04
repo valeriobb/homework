@@ -15,6 +15,7 @@ Nello specifico ci siamo approcciati a caratteristiche come: la scelta dei color
 
 INDIRIZZO DELLA REPOSITORY DI GITHUB:
 https://github.com/AntonioAgostini/homework.git
+https://github.com/valeriobb/homework.git
 
 
 
