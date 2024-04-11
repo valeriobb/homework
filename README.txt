@@ -1,7 +1,7 @@
 AUTORI: Antonio Agostini - Valerio Baratella
 
 DESCRIZIONE PROGETTO:
-Il progetto svolto rappresenta un fandom cioè un sito che contiene molteplici informazioni su un qualsiasi argomento.
+Il progetto svolto rappresenta un fandom cioè un sito web (forum), dove "vengono pubblicate e scambiate informazioni relative ad un certo argomento di interesse".
 Il tema del progetto e quindi del fandom è One Piece, un manga/anime molto famoso in tutto il mondo da ormai decenni.
 Il progetto fa riferimento in generale a diversi esercizi nelle slide riprendendo varie specifiche di essi.
 
